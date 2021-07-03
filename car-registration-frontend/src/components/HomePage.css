@@ -1,0 +1,41 @@
+.HomePage {
+  background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2013/03/24/60898/b11b8d11ca5c1d1c32c767e740a11884-700.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.HomePage > a {
+  margin: 10px;
+  font-size: 30px;
+  margin-left: 50px;
+  margin-right: 1000px;
+  background-color: rgb(242, 250, 134);
+  border-radius: 20px;
+  align-self: center;
+  text-decoration: none;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: rgb(0, 0, 0);
+  width: 320px;
+  font-weight: bold;
+}
+
+/* .HomePage > a:hover {
+  background-color: red;
+}
+
+.HomePage > a:visited {
+  background-color: black;
+}
+
+.HomePage > a:active {
+  background-color: green;
+} */

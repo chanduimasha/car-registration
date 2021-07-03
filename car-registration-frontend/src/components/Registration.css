@@ -1,0 +1,38 @@
+.Registration {
+  background-image: url("https://i.pinimg.com/originals/ed/f1/e6/edf1e68ce7a0b3ffef26a31f83b6ef47.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Registration > a {
+  font-size: 28px;
+  margin-top: 20px;
+  border-radius: 20px;
+  align-self: center;
+  text-decoration: none;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: rgb(0, 0, 0);
+  width: 270px;
+  font-weight: bold;
+  background-color: white;
+}
+
+/* .Registration > a:hover {
+  background-color: red;
+}
+
+.Registration > a:visited {
+  background-color: black;
+}
+
+.Registration > a:active {
+  background-color: green;
+} */

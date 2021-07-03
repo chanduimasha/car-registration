@@ -1,0 +1,28 @@
+.DeleteVehicle {
+  background-image: url("https://coolwallpapers.me/picsup/2818012-old-car-blue-cars-chevy-chevrolet___cars-wallpapers.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.DeleteVehicle h1 {
+  margin-top: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+
+input {
+  margin-left: 20px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.delete {
+  width: 200px;
+  padding: 10px;
+  align-self: center;
+}

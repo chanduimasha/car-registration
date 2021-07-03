@@ -1,0 +1,47 @@
+.UpdateVehicle {
+  background-image: url("https://vsthemes.org/uploads/posts/2019-06/1582031075_old-cars_vsthemes_ru-5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.updateVehicle h1 {
+  margin-top: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.contain {
+  margin-left: 20px;
+  margin-right: 520px;
+  font-size: 25px;
+  margin-top: 20px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.contain > input {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.contain > button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none !important;
+}
+
+.update {
+  width: 200px;
+  align-self: center;
+  padding: 10px;
+  margin-top: 30px;
+  font-size: 15px;
+  border-radius: 30px;
+}
